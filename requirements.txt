@@ -1,0 +1,11 @@
+flask
+pandas
+faker
+streamlit
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+plotly
+xgboost
